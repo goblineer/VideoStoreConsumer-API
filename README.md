@@ -6,7 +6,7 @@ This Video Store API implementation is based on the Video Store API project that
 You will need to acquire an API key from [The Movie Database](https://www.themoviedb.org/documentation/api) before you can run this project and this includes seeding the database.
 
 ## Functionality
-This API comes pre-packaged with most of the functionality that you will require. The following endpoints are impemented, based off of the primary and optional requirements of the project.
+This API comes pre-packaged with most of the functionality that you will require. The following endpoints are implemented, based off of the primary and optional requirements of the project.
 
 ### Customers
 
